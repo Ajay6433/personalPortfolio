@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "image": "/images/mongodb.png",
+      "title": "Event Vendor Aggregator",
+      "description": "A platform that connects event vendors (wedding, corporate, and birthday planners) with consumers, offering booking and rating functionality.",
+      "hashtags": ["#MERN", "#MongoDB", "#ExpressJS", "#ReactJS", "#NodeJS", "#TailwindCSS"],
+      "previewLink": "https://event-vendor-app.com",
+      "githubLink": "https://github.com/yourusername/event-vendor-aggregator"
+    },
+    {
+      "id": 2,
+      "image": "/images/react.png",
+      "title": "Task Management App",
+      "description": "A full-stack task manager that allows users to create, update, and delete tasks with real-time updates using WebSockets.",
+      "hashtags": ["#ReactJS", "#Redux", "#NodeJS", "#MongoDB", "#ExpressJS", "#Socket.io"],
+      "previewLink": "https://taskmanagerapp.com",
+      "githubLink": "https://github.com/yourusername/task-manager"
+    },
+    {
+      "id": 3,
+      "image": "/images/nextjs.png",
+      "title": "Next.js E-commerce Store",
+      "description": "An e-commerce store built with Next.js, featuring product filtering, authentication, and Stripe payment integration.",
+      "hashtags": ["#NextJS", "#MongoDB", "#TailwindCSS", "#NodeJS", "#ExpressJS", "#Stripe"],
+      "previewLink": "https://ecommerce-nextjs.com",
+      "githubLink": "https://github.com/yourusername/nextjs-ecommerce"
+    }
+  ]
+  

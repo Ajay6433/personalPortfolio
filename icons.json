@@ -1,0 +1,21 @@
+[
+    { "id": 1, "name": "bootstrap", "src": "/images/bootstrap.png" },
+    { "id": 2, "name": "typescript", "src": "/images/typescript.png" },
+    { "id": 3, "name": "html", "src": "/images/html.png" },
+    { "id": 4, "name": "javascript", "src": "/images/javascript.png" },
+    { "id": 5, "name": "css", "src": "/images/css.png" },
+    { "id": 6, "name": "react", "src": "/images/react.png" },
+    { "id": 7, "name": "nextjs", "src": "/images/nextjs.png" },
+    { "id": 8, "name": "redux", "src": "/images/redux.png" },
+    { "id": 9, "name": "tailwindcss", "src": "/images/tailwindcss.png" },
+    { "id": 10, "name": "express", "src": "/images/express.png" },
+    { "id": 11, "name": "jwt", "src": "/images/jwt.png" },
+    { "id": 12, "name": "mongodb", "src": "/images/mongodb.png" },
+    { "id": 13, "name": "npm", "src": "/images/npm.png" },
+    { "id": 14, "name": "sass", "src": "/images/sass.png" },
+    { "id": 15, "name": "github", "src": "/images/github.png" },
+    { "id": 16, "name": "postman", "src": "/images/postman.png" },
+    { "id": 17, "name": "nodejs", "src": "/images/nodejs.png" },
+    { "id": 18, "name": "vscode", "src": "/images/vscode.png" }
+  ]
+  
