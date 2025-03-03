@@ -1,30 +1,30 @@
 [
     {
       "id": 1,
-      "image": "/images/mongodb.png",
-      "title": "Event Vendor Aggregator",
-      "description": "A platform that connects event vendors (wedding, corporate, and birthday planners) with consumers, offering booking and rating functionality.",
-      "hashtags": ["#MERN", "#MongoDB", "#ExpressJS", "#ReactJS", "#NodeJS", "#TailwindCSS"],
-      "previewLink": "https://event-vendor-app.com",
-      "githubLink": "https://github.com/yourusername/event-vendor-aggregator"
+      "image": "/images/blogApp.png",
+      "title": "Blog App",
+      "description": "A full-stack blog application that allows users to register, log in, create, update, delete, and view blog posts. Public blogs are accessible to everyone, while private blogs remain exclusive to the owner through JWT-based authentication.",
+      "hashtags": ["#MERN", "#MongoDB", "#ExpressJS", "#NextJS", "#NodeJS", "JWT", "Vercel", "#TailwindCSS"],
+      "previewLink": "https://blog-app-ajay.vercel.app/",
+      "githubLink": "https://github.com/Ajay6433/blog-app"
     },
     {
       "id": 2,
-      "image": "/images/react.png",
-      "title": "Task Management App",
-      "description": "A full-stack task manager that allows users to create, update, and delete tasks with real-time updates using WebSockets.",
-      "hashtags": ["#ReactJS", "#Redux", "#NodeJS", "#MongoDB", "#ExpressJS", "#Socket.io"],
-      "previewLink": "https://taskmanagerapp.com",
-      "githubLink": "https://github.com/yourusername/task-manager"
+      "image": "/images/fyesta.png",
+      "title": "Fyesta Event Planners",
+      "description": "A minimum viable product (MVP) for an event planning platform that provides a range of event services. Built using Next.js, TailwindCSS and deployed on Vercel with a custom domain.",      
+      "hashtags": ["#NextJs", "#Vercel", "#TailwindCSS", "#Vercel", "#CSSKeyframes"],
+      "previewLink": "https://www.fyesta.in/",
+      "githubLink": "https://github.com/Ajay6433"
     },
     {
       "id": 3,
-      "image": "/images/nextjs.png",
-      "title": "Next.js E-commerce Store",
-      "description": "An e-commerce store built with Next.js, featuring product filtering, authentication, and Stripe payment integration.",
-      "hashtags": ["#NextJS", "#MongoDB", "#TailwindCSS", "#NodeJS", "#ExpressJS", "#Stripe"],
-      "previewLink": "https://ecommerce-nextjs.com",
-      "githubLink": "https://github.com/yourusername/nextjs-ecommerce"
+      "image": "/images/3dPortfolio.png",
+      "title": "3D Portfolio",
+      "description": "A dynamic 3D portfolio website showcasing projects, skills, and experiences using React, Three.js, and Framer Motion for interactive animations.",
+      "hashtags": ["#ReactJS", "#ThreeJS", "#FramerMotion", "#Vercel", "#3DPortfolio", "#WebDevelopment"],
+      "previewLink": "https://3d-portfolio-demo-iota.vercel.app/",
+      "githubLink": "https://github.com/Ajay6433/3dPortfolio_demo"
     }
   ]
   

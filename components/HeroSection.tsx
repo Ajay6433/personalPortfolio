@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import DownloadCV from './DownloadCV'
 
 const HeroSection = () => {
   return (
@@ -19,6 +20,7 @@ const HeroSection = () => {
                 <br/>
                 Turning ideas into code
             </h1>
+            <DownloadCV/>
         </div>
         <div className='flex justify-center items-center'>
             <div className='bg-gradient-to-b from-[#E70FAA] to-[#00C0FD] rounded-full h-[200px] w-[200px] md:h-[349px] md:w-[349px] flex justify-center items-center'>

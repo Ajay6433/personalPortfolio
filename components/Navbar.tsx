@@ -23,7 +23,7 @@ const Navbar = () => {
     },
     {
       title: "Tech Stack",
-      href: "#tech-stack",
+      href: "#techstack",
     },
     {
       title: "Projects",
@@ -31,7 +31,7 @@ const Navbar = () => {
     },
     {
       title: "Contact",
-      href: "#contact",
+      href: "/about",
     },
   ];
 
