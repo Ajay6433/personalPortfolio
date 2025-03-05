@@ -36,7 +36,7 @@ const Footer = () => {
       <div className=" md:flex md:justify-between items-center h-36 lg:h-24 text-[16px] text-[#42446E]">
         <Link href="/" className="flex items-center">
           <Image
-            src={"/images/ajaykhan.png"}
+            src={"/images/ajayKhan.png"}
             alt="Logo"
             width={110}
             height={80}
