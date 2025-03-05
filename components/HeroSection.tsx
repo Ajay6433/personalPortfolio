@@ -4,7 +4,7 @@ import DownloadCV from "./DownloadCV";
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-col-reverse md:flex-row justify-between items-center h-auto md:h-[349px] mt-10 mb-14">
+    <div className="flex flex-col-reverse md:flex-row justify-between items-center h-auto md:h-[349px] mt-10 mb-10">
       <div className="text-center md:text-left mt-4 md:mt-0">
         <h1 className="text-2xl md:text-[38px] font-bold md:leading-[48px]">
           <span className="hidden md:block">
