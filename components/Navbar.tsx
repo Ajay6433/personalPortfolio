@@ -49,7 +49,7 @@ const Navbar = () => {
           className="text-base font-medium leading-6 text-[#4A5568] flex items-center gap-2"
         >
           <Image 
-            src={"/images/ajaykhan.png"} 
+            src={"/images/ajayKhan.png"} 
             alt="Logo" 
             width={110} 
             height={80}
