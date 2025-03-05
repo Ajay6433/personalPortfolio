@@ -18,9 +18,9 @@ const HeroSection = () => {
             Ajay Khan
           </span>
           <br />
-          <span>{"{ "}</span>
+          <span className="md:hidden xl:hidden">{"{ "}</span>
           Turning ideas into code
-          <span>{" }"}</span>
+          <span className="md:hidden xl:hidden">{" }"}</span>
         </h1>
         <DownloadCV />
       </div>
